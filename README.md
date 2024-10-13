@@ -1,5 +1,5 @@
 # git-lesson    
-## pushing from our local environment to Gitbub    
+## Pushing from our local environment to Gitbub    
 - Download Gitbash ( https://git-scm.com/downloads/win)  
 ## Work with your configure envionment    
 - mkdir website    
